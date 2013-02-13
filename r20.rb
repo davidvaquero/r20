@@ -38,5 +38,6 @@ if __FILE__ == $0
 	s.say_hi
 	s.say_bye
 
+	puts "Finishing"
 
 end
